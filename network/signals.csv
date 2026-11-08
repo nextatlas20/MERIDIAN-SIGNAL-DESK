@@ -1,0 +1,10 @@
+signal_id,corridor,location,service_class,state,revision
+SG-101,North Loop,Harbor Gate,critical,active,1
+SG-102,East Spur,Cedar Junction,standard,active,1
+SG-103,North Loop,Market Crossing,critical,retired,1
+SG-101,North Loop,Harbor Gate,critical,active,2
+SG-104,West Line,Foundry Road,standard,active,1
+SG-105,Airport Link,Terminal South,critical,active,1
+SG-106,East Spur,Canal Bridge,standard,active,1
+SG-106,East Spur,Canal Bridge,standard,active,2
+bad,Discard,Nope,standard,active,1

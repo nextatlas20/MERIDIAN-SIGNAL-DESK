@@ -1,0 +1,15 @@
+{"alert_id":"AL-001","signal_id":"SG-101","observed_on":"2091-07-03","condition":"warning","score":42,"revision":1}
+{"alert_id":"AL-002","signal_id":"SG-101","observed_on":"2091-07-08","condition":"fault","score":76,"revision":1}
+{"alert_id":"AL-003","signal_id":"SG-102","observed_on":"2091-07-11","condition":"warning","score":55,"revision":1}
+{"alert_id":"AL-004","signal_id":"SG-103","observed_on":"2091-07-12","condition":"fault","score":91,"revision":1}
+{"alert_id":"AL-005","signal_id":"SG-104","observed_on":"2091-06-30","condition":"fault","score":88,"revision":1}
+{"alert_id":"AL-006","signal_id":"SG-105","observed_on":"2091-07-14","condition":"clear","score":99,"revision":1}
+{"alert_id":"AL-007","signal_id":"SG-105","observed_on":"2091-07-14","condition":"fault","score":64,"revision":1}
+{"alert_id":"AL-008","signal_id":"SG-106","observed_on":"2091-07-19","condition":"warning","score":30,"revision":1}
+{"alert_id":"AL-009","signal_id":"SG-106","observed_on":"2091-07-19","condition":"fault","score":35,"revision":1}
+{"alert_id":"AL-010","signal_id":"SG-102","observed_on":"2091-07-11","condition":"fault","score":60,"revision":1}
+{"alert_id":"AL-010","signal_id":"SG-102","observed_on":"2091-07-11","condition":"fault","score":70,"revision":2}
+{"alert_id":"AL-011","signal_id":"SG-104","observed_on":"2091-07-22","condition":"fault","score":80,"revision":1}
+{"alert_id":"AL-012","signal_id":"SG-999","observed_on":"2091-07-10","condition":"fault","score":77,"revision":1}
+{"alert_id":"AL-013","signal_id":"SG-104","observed_on":"2091-07-09","condition":"warning","score":true,"revision":1}
+not json
