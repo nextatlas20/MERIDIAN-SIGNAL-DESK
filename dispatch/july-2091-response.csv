@@ -1,0 +1,5 @@
+queue,signal_id,corridor,location,service_class,alert_id,observed_on,deadline,condition,score,priority_points
+1,SG-101,North Loop,Harbor Gate,critical,AL-002,2091-07-08,2091-07-12,fault,76,176
+2,SG-105,Airport Link,Terminal South,critical,AL-007,2091-07-14,2091-07-18,fault,64,164
+3,SG-102,East Spur,Cedar Junction,standard,AL-003,2091-07-11,2091-07-20,warning,55,95
+4,SG-106,East Spur,Canal Bridge,standard,AL-008,2091-07-19,2091-07-28,warning,30,70
